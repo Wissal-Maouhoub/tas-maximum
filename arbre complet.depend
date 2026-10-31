@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1793462377 source:c:\users\hp\desktop\bouziri\arbre complet\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<algorithm>
+
